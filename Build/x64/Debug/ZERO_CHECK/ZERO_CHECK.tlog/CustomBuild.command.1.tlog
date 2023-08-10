@@ -1,0 +1,10 @@
+^F:\VULKANGUIDELEARN\VULKANGUIDELEARN\BUILD\CMAKEFILES\A1E3925A0003283EF11C1F20C6A26A76\GENERATE.STAMP.RULE
+setlocal
+F:\VulkanGuideLearn\VulkanGuideLearn\cmake\cmake-3.27.1-windows-x86_64\bin\cmake.exe -SF:/VulkanGuideLearn/VulkanGuideLearn/MainProject -BF:/VulkanGuideLearn/VulkanGuideLearn/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/VulkanGuideLearn/VulkanGuideLearn/Build/vulkan_guide.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

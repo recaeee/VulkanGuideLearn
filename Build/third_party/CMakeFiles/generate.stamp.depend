@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+F:/VulkanGuideLearn/VulkanGuideLearn/MainProject/third_party/CMakeLists.txt
+F:/VulkanGuideLearn/VulkanGuideLearn/cmake/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+F:/VulkanGuideLearn/VulkanGuideLearn/cmake/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake
+F:/VulkanGuideLearn/VulkanGuideLearn/cmake/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/FindVulkan.cmake
