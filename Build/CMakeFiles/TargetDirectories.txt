@@ -1,7 +1,0 @@
-F:/VulkanGuideLearn/VulkanGuideLearn/Build/CMakeFiles/Shaders.dir
-F:/VulkanGuideLearn/VulkanGuideLearn/Build/CMakeFiles/ALL_BUILD.dir
-F:/VulkanGuideLearn/VulkanGuideLearn/Build/CMakeFiles/ZERO_CHECK.dir
-F:/VulkanGuideLearn/VulkanGuideLearn/Build/third_party/CMakeFiles/vkbootstrap.dir
-F:/VulkanGuideLearn/VulkanGuideLearn/Build/third_party/CMakeFiles/tinyobjloader.dir
-F:/VulkanGuideLearn/VulkanGuideLearn/Build/third_party/CMakeFiles/imgui.dir
-F:/VulkanGuideLearn/VulkanGuideLearn/Build/src/CMakeFiles/vulkan_guide.dir
